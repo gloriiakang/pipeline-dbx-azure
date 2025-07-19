@@ -1,0 +1,9 @@
+{
+	"name": "dbx-gck",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25cfde64-5062-4c62-b4ba-506fc9d85314",
+		"tenantId": "3616f533-3c8b-41c0-be56-32b8c4f15e73"
+	}
+}
